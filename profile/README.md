@@ -1,12 +1,20 @@
-## Hi there 👋
+# Welcome to Calango's Enterprise
 
-<!--
+<img src="images\Calango's Enterprise Frente.gif">
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### **Together we create tech projects to help people!**
+
+---
+
+## Latest Projects
+
+---
+
+<br>
+
+|Project|Technology used|
+|---|---|
+|[![](https://img.shields.io/badge/Wedding_Website-FF00D7?style=for-the-badge&logo=github&logoColor=black)](https://calangosenterprise.github.io/Gabriel_e_Liliane/)| ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)|
+
