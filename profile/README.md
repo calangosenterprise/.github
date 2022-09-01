@@ -1,6 +1,8 @@
 # Welcome to Calango's Enterprise
 
-<img src="images\Calango's Enterprise Frente.gif">
+<p align="center">
+    <img src="profile\images\Calangos_Enterprise_Frente.gif">
+</p>
 
 ---
 
